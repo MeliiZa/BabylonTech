@@ -1,0 +1,70 @@
+.titlehead{
+    background-color: #e1eefa;
+    padding: 3%;text-align: center;
+    
+    
+}
+.faqtitle{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    color: darkblue;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 1px;
+
+}
+
+.faqtitle2{
+    margin-top: 0px;
+    color: rgb(49, 125, 224);
+    padding-top: 1px;
+    line-height: 0.25;
+    margin-bottom: 70px;
+    
+}
+
+#image{
+    margin-top: 3%;
+    height: 350px;
+    width: 550px;
+    border-radius: 4px;
+    display: block;
+    margin: 0 auto;
+
+
+}
+
+#titletext{
+    margin: 1%;
+    font-family: 'Montserrat', sans-serif;
+    color: slategray;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+
+}
+
+p{
+    margin: 1%;
+    font-family: 'Montserrat', sans-serif;
+    color: slategray;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: justify;
+    margin-right: 4%;
+
+}
+
+.row{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+}
