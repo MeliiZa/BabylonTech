@@ -1,0 +1,46 @@
+
+.faqtitle{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    color: darkblue;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 3rem;
+    background-color:  #e1eefa;
+    text-align: center;
+
+}
+strong{
+    padding: 6rem;
+    color:slategrey;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.card{
+    margin: 4rem;
+}
+.map-container-section {
+    margin-top: 6rem;
+    margin-left: 2rem;
+    margin-right: 4rem;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-section iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+
+.icons{
+    color: darkblue;
+    font-size: 30px;
+
+}
